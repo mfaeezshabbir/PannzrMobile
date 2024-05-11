@@ -239,15 +239,11 @@ const styles = StyleSheet.create({
   },
   buttonSkip: {
     position: "absolute",
-    paddingVertical: 10,
-    paddingHorizontal: 20,
-    top: 50,
-    right: 20,
-    borderRadius: 5,
+    top: 20,
+    right: 30,
   },
   skipText: {
     color: "brown",
-    fontWeight: "bold",
     fontSize: 18,
   },
 });
